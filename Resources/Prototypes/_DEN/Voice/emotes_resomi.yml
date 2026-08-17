@@ -1,0 +1,54 @@
+- type: emoteSounds
+  id: BaseEmoteSoundsResomi
+  abstract: true
+  params:
+    variation: 0.125
+  sounds:
+    Chirp:
+      path: /Audio/_DV/Voice/Harpy/chirp1.ogg
+    Coo:
+      path: /Audio/_DEN/Voice/Avali/avali_coo.ogg
+    Cough:
+      path: /Audio/Voice/Vox/vox_cough.ogg
+    Crying:
+      path: /Audio/_DEN/Voice/Avali/avali_cry.ogg
+    Honk:
+      path: /Audio/_DEN/Voice/Avali/avali_honk.ogg
+    Laugh:
+      path: /Audio/_RMC14/Voice/Avali/avali_laugh.ogg
+    Scream:
+      path: /Audio/_Floof/Voice/Avali/avali_scream.ogg
+    Sigh:
+      path: /Audio/_DEN/Voice/Avali/avali_sigh.ogg
+    Sneeze:
+      path: /Audio/_DEN/Voice/Avali/avali_sneeze.ogg
+    Snore:
+      collection: Snores
+    Weh:
+      collection: Weh
+    Whistle:
+      collection: Whistles
+
+- type: emoteSounds
+  parent: [ BaseEmoteSoundsResomi ]
+  id: MaleResomi
+  voiceSelectorName: humanoid-profile-editor-voice-masculine
+  sounds:
+    DefaultDeathgasp:
+      collection: MaleDeathGasp
+    Gasp:
+      collection: MaleGasp
+    Yawn:
+      collection: MaleYawn
+
+- type: emoteSounds
+  parent: [ BaseEmoteSoundsResomi ]
+  id: FemaleResomi
+  voiceSelectorName: humanoid-profile-editor-voice-feminine
+  sounds:
+    DefaultDeathgasp:
+      collection: FemaleDeathGasp
+    Gasp:
+      collection: FemaleGasp
+    Yawn:
+      collection: FemaleYawn

@@ -3,8 +3,8 @@
 - type: marking
   id: ResomiTail
   bodyPart: Chest
-#  markingCategory: Tail
-#  speciesRestriction: [Resomi]
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   forcedColoring: true
   sprites:
@@ -14,8 +14,8 @@
 - type: marking
   id: ResomiTailFeathers
   bodyPart: Chest
-#  markingCategory: Tail
-#  speciesRestriction: [Resomi]
+  markingCategory: Tail
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -24,8 +24,8 @@
 - type: marking
   id: ResomiLArmFeathers
   bodyPart: LHand
-#  markingCategory: LeftHand
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftHand
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -34,8 +34,8 @@
 - type: marking
   id: ResomiLLegFeathers
   bodyPart: LFoot
-#  markingCategory: LeftFoot
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftFoot
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -44,8 +44,8 @@
 - type: marking
   id: ResomiRArmFeathers
   bodyPart: RHand
-#  markingCategory: RightHand
-#  speciesRestriction: [Resomi]
+  markingCategory: RightHand
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -54,8 +54,8 @@
 - type: marking
   id: ResomiRLegFeathers
   bodyPart: RFoot
-#  markingCategory: RightFoot
-#  speciesRestriction: [Resomi]
+  markingCategory: RightFoot
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -64,8 +64,8 @@
 - type: marking
   id: ResomiFluff
   bodyPart: Chest
-#  markingCategory: Chest
-#  speciesRestriction: [Resomi]
+  markingCategory: Chest
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -74,8 +74,8 @@
 - type: marking
   id: ResomiFluffHead
   bodyPart: Head
-#  markingCategory: Head
-#  speciesRestriction: [Resomi]
+  markingCategory: Head
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -84,8 +84,8 @@
 - type: marking
   id: ResomiFluffHeadUp
   bodyPart: Head
-#  markingCategory: Head
-#  speciesRestriction: [Resomi]
+  markingCategory: Head
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -96,8 +96,8 @@
 - type: marking
   id: ResomiWendigoFaceOnly
   bodyPart: Head
-#  markingCategory: Head
-#  speciesRestriction: [Resomi]
+  markingCategory: Head
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
@@ -106,8 +106,8 @@
 - type: marking
   id: ResomiWendigoFaceManed
   bodyPart: Head
-#  markingCategory: Head
-#  speciesRestriction: [Resomi]
+  markingCategory: Head
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
@@ -118,8 +118,8 @@
 - type: marking
   id: ResomiEars
   bodyPart: Head
-#  markingCategory: Head
-#  speciesRestriction: [Resomi]
+  markingCategory: Head
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
@@ -130,8 +130,8 @@
 - type: marking
   id: ResomiCyArmL
   bodyPart: LArm
-#  markingCategory: LeftArm
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftArm
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
@@ -140,8 +140,8 @@
 - type: marking
   id: ResomiCyArmR
   bodyPart: RArm
-#  markingCategory: RightArm
-#  speciesRestriction: [Resomi]
+  markingCategory: RightArm
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
@@ -150,8 +150,8 @@
 - type: marking
   id: ResomiCyHandR
   bodyPart: RHand
-#  markingCategory: RightHand
-#  speciesRestriction: [Resomi]
+  markingCategory: RightHand
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
@@ -160,8 +160,8 @@
 - type: marking
   id: ResomiCyHandL
   bodyPart: LHand
-#  markingCategory: LeftHand
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftHand
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
@@ -172,8 +172,8 @@
 - type: marking
   id: ResomiCyLegR
   bodyPart: RLeg
-#  markingCategory: RightLeg
-#  speciesRestriction: [Resomi]
+  markingCategory: RightLeg
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
@@ -182,8 +182,8 @@
 - type: marking
   id: ResomiCyLegL
   bodyPart: LLeg
-#  markingCategory: LeftLeg
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftLeg
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
@@ -192,8 +192,8 @@
 - type: marking
   id: ResomiCyFootR
   bodyPart: RFoot
-#  markingCategory: RightFoot
-#  speciesRestriction: [Resomi]
+  markingCategory: RightFoot
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
@@ -202,8 +202,8 @@
 - type: marking
   id: ResomiCyFootL
   bodyPart: LFoot
-#  markingCategory: LeftFoot
-#  speciesRestriction: [Resomi]
+  markingCategory: LeftFoot
+  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi

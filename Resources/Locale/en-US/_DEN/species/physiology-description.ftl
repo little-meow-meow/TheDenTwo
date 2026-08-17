@@ -19,6 +19,7 @@ physiology-description-species-base-vulpkanin = vulpkanin
 
 ## den species
 # TODO
+physiology-description-species-base-resomi = resomian
 
 # SPECIES PREFIXES
 # TODO
