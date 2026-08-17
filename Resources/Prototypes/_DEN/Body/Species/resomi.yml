@@ -173,6 +173,17 @@
   components:
   - type: DamageVisuals
     thresholds: [ 10, 30, 50, 70 ]
+    targetLayers:
+    - "enum.HumanoidVisualLayers.Chest"
+    - "enum.HumanoidVisualLayers.Head"
+    - "enum.HumanoidVisualLayers.LArm"
+    - "enum.HumanoidVisualLayers.LHand"
+    - "enum.HumanoidVisualLayers.LLeg"
+    - "enum.HumanoidVisualLayers.LFoot"
+    - "enum.HumanoidVisualLayers.RArm"
+    - "enum.HumanoidVisualLayers.RHand"
+    - "enum.HumanoidVisualLayers.RLeg"
+    - "enum.HumanoidVisualLayers.RFoot"
     damageOverlayGroups:
       Brute:
         sprite: _Floof/Mobs/Effects/Resomi/brute_damage.rsi
