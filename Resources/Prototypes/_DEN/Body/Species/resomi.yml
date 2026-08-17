@@ -225,8 +225,8 @@
     baseLabel: physiology-description-species-base-resomi
   - type: CreamPied
     sprite:
-      sprite: Effects/creampie.rsi
-      state: creampie_vulpkanin # TODO!: Need sprite
+      sprite: _Moffstation/Effects/creampie.rsi
+      state: creampie_resomi
   - type: MovementSpeedModifier
     weightlessAcceleration: 2.5
     weightlessModifier: 1.1
