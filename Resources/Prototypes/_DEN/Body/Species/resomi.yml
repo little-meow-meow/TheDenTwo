@@ -99,7 +99,7 @@
 #          sprite: _Floof/Mobs/Species/Resomi/displacement.rsi
 #          state: hand_r # TODO!: Need sprite
   - type: Inventory
-    speciesId: Resomi
+    speciesId: resomi
     femaleDisplacements: &ResomiDisplacements
       jumpsuit:
         sizeMaps:
