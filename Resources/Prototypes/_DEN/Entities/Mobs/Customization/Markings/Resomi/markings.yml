@@ -5,7 +5,7 @@
   bodyPart: Chest
   markingCategory: Tail
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   forcedColoring: true
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
@@ -16,7 +16,7 @@
   bodyPart: Chest
   markingCategory: Tail
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: tail_feathers
@@ -26,7 +26,7 @@
   bodyPart: LHand
   markingCategory: LeftHand
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: l_hand_feathers
@@ -36,7 +36,7 @@
   bodyPart: LFoot
   markingCategory: LeftFoot
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: l_foot_feathers
@@ -46,7 +46,7 @@
   bodyPart: RHand
   markingCategory: RightHand
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: r_hand_feathers
@@ -56,7 +56,7 @@
   bodyPart: RFoot
   markingCategory: RightFoot
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: r_foot_feathers
@@ -66,7 +66,7 @@
   bodyPart: Chest
   markingCategory: Chest
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: fluff
@@ -76,7 +76,7 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: fluff_head
@@ -86,7 +86,7 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_parts.rsi
     state: fluff_head_up
@@ -98,7 +98,7 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
     state: Wendigo-paint
@@ -108,7 +108,7 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
     state: Wendigo-paint
@@ -120,7 +120,7 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/head_markings.rsi
     state: fluff_ears
@@ -132,7 +132,7 @@
   bodyPart: LArm
   markingCategory: LeftArm
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
     state: cyberkinetic-arm-l
@@ -142,7 +142,7 @@
   bodyPart: RArm
   markingCategory: RightArm
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
     state: cyberkinetic-arm-r
@@ -152,7 +152,7 @@
   bodyPart: RHand
   markingCategory: RightHand
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
     state: cyberkinetic-hand-r
@@ -162,7 +162,7 @@
   bodyPart: LHand
   markingCategory: LeftHand
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/arm_markings.rsi
     state: cyberkinetic-hand-l
@@ -174,7 +174,7 @@
   bodyPart: RLeg
   markingCategory: RightLeg
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
     state: cyberkinetic-leg-r
@@ -184,7 +184,7 @@
   bodyPart: LLeg
   markingCategory: LeftLeg
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
     state: cyberkinetic-leg-l
@@ -194,7 +194,7 @@
   bodyPart: RFoot
   markingCategory: RightFoot
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
     state: cyberkinetic-foot-r
@@ -204,7 +204,7 @@
   bodyPart: LFoot
   markingCategory: LeftFoot
   speciesRestriction: [Resomi]
-  groupWhitelist: []
+  groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/leg_markings.rsi
     state: cyberkinetic-foot-l

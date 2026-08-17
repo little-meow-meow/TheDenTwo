@@ -21,6 +21,7 @@
       limit: 2
       required: true
       default: [ ResomiTail, ResomiTailFeathers ]
+      onlyGroupWhitelisted: true
     enum.HumanoidVisualLayers.LArm:
       limit: 6
       required: false
