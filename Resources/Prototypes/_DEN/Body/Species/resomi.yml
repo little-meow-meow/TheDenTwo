@@ -186,8 +186,6 @@
     speechSounds: ResomiMale
     speechVerb: Parrot
     allowedEmotes: [ "Chirp" ]
-  - type: TypingIndicator
-    #proto: vulpkanin # TODO!: Need prototype and sprites
   - type: Vocal
     emoteSounds: MaleResomi
   - type: Damageable
