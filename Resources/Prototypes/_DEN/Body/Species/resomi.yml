@@ -171,12 +171,17 @@
   name: Urist McRaptor
   components:
   - type: DamageVisuals
+    thresholds: [ 10, 30, 50, 70 ]
     damageOverlayGroups:
       Brute:
-        sprite: Mobs/Effects/brute_damage.rsi
-        color: "#ccac1f"
+        sprite: _Floof/Mobs/Effects/Resomi/brute_damage.rsi
+        color: "#6b4082"
       Burn:
-        sprite: Mobs/Effects/burn_damage.rsi
+        sprite: _Floof/Mobs/Effects/Resomi/burn_damage.rsi
+  - type: FireVisuals
+    sprite: _Floof/Mobs/Effects/Resomi/onfire.rsi
+    normalState: Resomi_minor_burning
+    alternateState: Resomi_burning
   - type: Speech
     speechSounds: ResomiMale
     speechVerb: Parrot
