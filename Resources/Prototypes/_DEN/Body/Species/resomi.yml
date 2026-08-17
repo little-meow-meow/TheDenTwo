@@ -178,7 +178,7 @@
       Burn:
         sprite: Mobs/Effects/burn_damage.rsi
   - type: Speech
-    speechSounds: SpeechResomiMale
+    speechSounds: ResomiMale
     speechVerb: Parrot
     allowedEmotes: [ "Chirp" ]
   - type: TypingIndicator
