@@ -1,8 +1,7 @@
 ﻿- type: marking
   id: HairResomiBackstrafe
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -11,8 +10,7 @@
 - type: marking
   id: HairResomiBurstShort
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -21,8 +19,7 @@
 - type: marking
   id: HairResomiDefault
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -31,8 +28,7 @@
 - type: marking
   id: HairResomiDroopy
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -41,8 +37,7 @@
 - type: marking
   id: HairResomiEars
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -51,8 +46,7 @@
 - type: marking
   id: HairResomiFluffyMohawk # from HairResomiFluffymohawk
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -61,8 +55,7 @@
 - type: marking
   id: HairResomiHedge
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -71,8 +64,7 @@
 - type: marking
   id: HairResomiLongway
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -81,8 +73,7 @@
 - type: marking
   id: HairResomiMane
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -91,8 +82,7 @@
 - type: marking
   id: HairResomiManeBeardless
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -101,8 +91,7 @@
 - type: marking
   id: HairResomiMohawk
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -111,8 +100,7 @@
 - type: marking
   id: HairResomiMushroom
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -121,8 +109,7 @@
 - type: marking
   id: HairResomiNotree
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -131,8 +118,7 @@
 - type: marking
   id: HairResomiSpiky
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -141,8 +127,7 @@
 - type: marking
   id: HairResomiPointy
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -151,8 +136,7 @@
 - type: marking
   id: HairResomiTwies
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -161,8 +145,7 @@
 - type: marking
   id: HairResomiUpright
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -171,8 +154,7 @@
 - type: marking
   id: HairResomiLong
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -183,8 +165,7 @@
 - type: marking
   id: HairResomiRebel
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -193,8 +174,7 @@
 - type: marking
   id: HairResomiRebelExtended
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -203,8 +183,7 @@
 - type: marking
   id: HairResomiLoyal
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -213,8 +192,7 @@
 - type: marking
   id: HairResomiLoyalMale
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -223,8 +201,7 @@
 - type: marking
   id: HairResomiCosmorunner
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -233,8 +210,7 @@
 - type: marking
   id: HairResomiPlumage
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -243,8 +219,7 @@
 - type: marking
   id: HairResomiPlumageLong
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -253,8 +228,7 @@
 - type: marking
   id: HairResomiGenericallyUnique
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
@@ -263,8 +237,7 @@
 - type: marking
   id: HairResomiRoyalPlume
   bodyPart: Hair
-  markingCategory: Hair
-  speciesRestriction: [Resomi]
+#  speciesRestriction: [Resomi]
   groupWhitelist: [Resomi]
   sprites:
   - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
