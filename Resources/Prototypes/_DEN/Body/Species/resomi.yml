@@ -192,7 +192,7 @@
   - type: Speech
     speechSounds: ResomiMale
     speechVerb: Parrot
-    allowedEmotes: [ "Chirp" ]
+    allowedEmotes: [ "Chirp", "Coo", "Honk" ]
   - type: Vocal
     emoteSounds: MaleResomi
   - type: Damageable
